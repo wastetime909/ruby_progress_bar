@@ -1,0 +1,2 @@
+module HeavyTasksHelper
+end
